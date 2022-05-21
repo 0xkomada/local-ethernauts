@@ -7,3 +7,7 @@
 
 - Understanding how the low level call function works in solidity will help complete this challenge
 - Can you find a way to deplete the gas called with the withdrawl function?
+
+# Resources
+
+- <https://medium.com/@this_post/ethernaut-20-denial-writeups-17ed0bdc8857>
