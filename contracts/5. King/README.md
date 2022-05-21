@@ -11,3 +11,6 @@
 - Understanding how fallback functions work in solidity will also help you complete this challenge
 - Understanding revert, assert, and require will also help you complete this challenge
 
+# Resources
+
+- <https://medium.com/coinmonks/ethernaut-lvl-9-king-walkthrough-how-bad-contracts-can-abuse-withdrawals-db12754f359b>
