@@ -5,3 +5,7 @@
 # Hints
 
 - Understanding how the reentrancy solidity vulnerability works will help you complete this challenge
+
+# Resources
+
+- <https://solidity-by-example.org/hacks/re-entrancy>
